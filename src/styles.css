@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Lydora-Kids";
+  src: url("/public/fonts/LydoraKids.otf") format("otf")
+    url("/public/fonts/LydoraKids.ttf") format("ttf");
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lydora-Kids", Fallback, sans-serif;
+}

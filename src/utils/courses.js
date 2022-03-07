@@ -1,0 +1,51 @@
+export const links = [
+    {
+        image: 'images/course.jpg',
+        title: 'PASTELERÍA CANINA Y FELINA',
+        description: 'google',
+        infoLink: 'https://go.hotmart.com/K67524047Y?ap=3656',
+        buyLink: 'https://go.hotmart.com/K67524047Y?ap=e832',
+    },
+    {
+        image: 'images/course.jpg',
+        title: 'EDUCANINO',
+        description: 'google',
+        infoLink: 'https://go.hotmart.com/E66001187U?ap=6eea',
+        buyLink: 'https://go.hotmart.com/E66001187U?ap=4827',
+    },
+    {
+        image: 'images/course.jpg',
+        title: 'PELUQUERÍA PARA PERROS',
+        description: 'google',
+        infoLink: 'https://go.hotmart.com/V67519015T?ap=47e2',
+        buyLink: 'https://go.hotmart.com/V67519015T?ap=28d2',
+    },
+    {
+        image: 'images/course.jpg',
+        title: 'PRIMERO AUXILIOS PARA PERROS',
+        description: 'google',
+        infoLink: 'https://go.hotmart.com/T66001241V?ap=79d6',
+        buyLink: 'https://go.hotmart.com/T66001241V?ap=db02',
+    },
+    {
+        image: 'images/course.jpg',
+        title: 'ACCESORIOS PARA MASCOTAS',
+        description: 'google',
+        infoLink: 'https://go.hotmart.com/D67526489C?ap=86e3',
+        buyLink: 'https://go.hotmart.com/D67526489C?ap=fce7',
+    },
+    {
+        image: 'images/course.jpg',
+        title: 'DIETA BARF PERROS Y GATOS + VITALES',
+        description: 'google',
+        infoLink: 'https://go.hotmart.com/T67519201U?ap=f4c8',
+        buyLink: 'https://go.hotmart.com/T67519201U?ap=918c',
+    },
+    {
+        image: 'images/course.jpg',
+        title: 'ROPA PARA MASCOTAS COMO NEGOCIO',
+        description: 'google',
+        infoLink: 'https://go.hotmart.com/T67526726R?ap=c6ba',
+        buyLink: 'https://go.hotmart.com/T67526726R?ap=6e29',
+    },
+]
