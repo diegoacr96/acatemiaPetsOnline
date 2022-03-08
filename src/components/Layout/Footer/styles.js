@@ -14,9 +14,11 @@ export const Container = styled.footer({
 })
 
 export const Columns = styled.div({
-    display: 'flex',
     width: '500px',
-    justifyContent: 'space-between'
+    display: 'grid',
+    gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 10em), 1fr))',
+    justifyContent: 'center',
+    justifyItems: 'center'
 })
 
 export const WhiteAnchor = styled.a({
